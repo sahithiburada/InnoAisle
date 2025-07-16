@@ -1,4 +1,4 @@
-# InnoAisle - Walmart Store Intelligence Platform
+# InnoAisle - Intelligent Energy Conservation And Aisle Arrangement Platform
 
 An AI-powered retail analytics platform for optimizing store traffic and energy efficiency using real ML data.
 
@@ -8,7 +8,6 @@ An AI-powered retail analytics platform for optimizing store traffic and energy 
 - **Live Analytics Dashboard**: Real-time store traffic and energy optimization metrics
 - **Interactive Store Blueprint**: Visual representation of store zones with heat mapping
 - **AI-Powered Recommendations**: ML-generated layout and cooling optimization suggestions
-- **Walmart Brand Colors**: Professional design using official Walmart brand colors
 
 ## Tech Stack
 
@@ -23,7 +22,7 @@ An AI-powered retail analytics platform for optimizing store traffic and energy 
 - Flask Python server
 - scikit-learn for ML processing
 - pandas for data manipulation
-- CORS enabled for frontend integration
+- CORS is enabled for frontend integration
 
 ## Quick Start
 
